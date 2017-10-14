@@ -4,6 +4,5 @@
 #include "../../config.h"
 
 #undef INFINITY_LED
-#define INFINITY_PROTOTYPE
 
 #endif
